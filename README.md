@@ -1,2 +1,2 @@
 # CDOCT
- CD Open Close Tool
+CDOCT - CD Open Close Tool
